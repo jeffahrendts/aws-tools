@@ -1,4 +1,4 @@
-# Name: AWS EC2 Security Group Whitelisting
+# Name: AWS EC2 Security Group Whitelisting Lambda
 # Description:
 #  This lambda utilizes AWS EC2 API to append AWS EC2 security group(s) ingress
 # rules utlizing boto. This exampl performs an HTTP GET request against a
